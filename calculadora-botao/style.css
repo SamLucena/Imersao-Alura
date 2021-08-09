@@ -1,0 +1,24 @@
+*{
+    font-family: 'Secular One';
+  }
+  ul li{
+    line-height: 30px;
+    list-style: none;
+  }
+  .container{
+    display:inline-block;
+    border-radius: 10px;
+    border: 3px solid black;
+    padding: 15px;
+    background-color: gray;
+  }
+  .utilButtons{
+    padding: 10px;
+    padding-left: 112px;
+  }
+  button{
+    font-size: 15px;
+  }
+  h1{
+    text-align: center;
+  }
