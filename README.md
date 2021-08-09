@@ -1,4 +1,4 @@
-# Imersao-Alura
+# ImersãoDEV Alura
 <h2>Projetos desenvolvidos na ImersãoDEV JavaScript da Alura 2020</h2>
 
 
