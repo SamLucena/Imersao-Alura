@@ -1,10 +1,11 @@
 # ImersãoDEV Alura
-<h2>Projetos desenvolvidos na ImersãoDEV JavaScript da Alura 2020</h2>
+## Projetos desenvolvidos na ImersãoDEV JavaScript da Alura 2020
 
 
-<h3>Como usar?</h3> 
-<p>git clone https://github.com/SamLucena/Imersao-Alura.git<p>
-
+## Como usar? 
+```bash
+git clone https://github.com/SamLucena/Imersao-Alura.git
+```
  ##
   
 Powered by CodePen
